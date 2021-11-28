@@ -2,14 +2,14 @@ import React from 'react';
 
 const StarButton = () => (
   <div className="star-button-container">
-    <small>Leave a star on Github if this repository was useful :)</small>
+    <small>Make sure to leave a star  :)</small>
     <a
       className="github-button"
-      href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+      href="https://google.com"
       data-size="large"
-      aria-label="Star jeffersonRibeiro/react-shopping-cart on GitHub"
+      aria-label="Star"
     >
-      Star
+      Ali Kachef
     </a>
   </div>
 );
